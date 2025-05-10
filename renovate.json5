@@ -9,4 +9,5 @@
   lockFileMaintenance: {
     enabled: true,
   },
+  ignoreDeps: ["pytest-cov", "pytest", "pre-commit", "starlette", "mypy", "mkdocs-material", "SQLAlchemy", "mkdocs"]
 }
